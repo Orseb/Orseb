@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Orseb
+- 👋 Hi, I’m @SebaOrtiz, aka @Orseb
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data science projects.
