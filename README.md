@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SebaOrtiz, aka @Orseb
+- 👋 Hi, I’m Sebastián Ortiz, aka @Orseb
 - 👀 I’m interested in programming
 - 🌱 I’m currently performing case studies applying data analysis
 - 💞️ I’m looking to collaborate on data science projects.
