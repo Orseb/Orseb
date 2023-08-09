@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastián Ortiz, aka @Orseb
 - 👀 I’m interested in programming
-- 🌱 I’m currently performing case studies applying data analysis
+- 🌱 I’m currently working as a Back-End Developer!
 - 💞️ I’m looking to collaborate on data science projects.
 - 📫 How to reach me:
 
